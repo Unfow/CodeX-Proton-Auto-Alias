@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Proton Pass Aliases"
+  short_description: "Create and verify batches of Proton Pass aliases"
+  default_prompt: "Use $create-proton-pass-aliases to create a verified batch of smart one-word Proton Pass aliases."
